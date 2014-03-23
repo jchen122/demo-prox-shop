@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DemoProxShop</string>
+    <string name="main_string">Aggiorna la posizione cliccando sul pulsante.</string>
+    <string name="action_settings">Settings</string>
+    <string name="load_map_button">Aggiorna</string>
+
+
+</resources>
