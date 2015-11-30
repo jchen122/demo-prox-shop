@@ -1,0 +1,1 @@
+Android app that alert when go near a shop with some sales or nice offers.
